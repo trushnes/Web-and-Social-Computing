@@ -1,6 +1,6 @@
 # Web-and-Social-Computing
 
-#Assignment 01 Description:
+## Assignment 01 Description:
 
 Consider real-world information networks of different scale (at least 3 different standard
 datasets).

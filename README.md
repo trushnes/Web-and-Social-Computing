@@ -24,3 +24,10 @@ properties exhibited by the graph data chosen by you.
 1. Erdos-Renyi Model
 2. Watts-Strogatz Model
 3. Barabasi-Albert Model
+
+## Assignment-03 Description:
+
+1. Calculate and compare PageRank of the top 100 pages, and generate a ranked list based on the calculated scores.
+2. Which of the Web Pages have the highest and lowest PageRank? What are your observations regarding the scale-free nature of real-world graphs and its impact on PageRank?
+3. Correlate your calculated scores with reference to the experiments performed in Assignment 1 (w.r.t various network properties) and write a detailed analysis of your observations, along with plots of the rank/score distribution.
+
